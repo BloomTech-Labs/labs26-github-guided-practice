@@ -80,6 +80,9 @@ project.
    -  ![delete-pr](https://tk-assets.lambdaschool.com/b3f929ad-a295-4b70-81c3-3e28890188d5_ScreenShot2020-04-13at9.25.26AM.png)
 
 ### Erik Sandvik
+<<<<<<< HEAD
+=======
 ### Nick Myers
 ### Caleb Barger
 ### Jonathan Hsu
+>>>>>>> 59010b2b7d6c87d4263509069bc5bcbedd1d54c4
