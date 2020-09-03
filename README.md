@@ -84,3 +84,5 @@ project.
 ### Caleb Barger
 ### Jonathan Hsu 
 ### Krishna Dahal
+### Steven Chase
+
