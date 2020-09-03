@@ -79,10 +79,4 @@ project.
    things you and your teams do together.
    -  ![delete-pr](https://tk-assets.lambdaschool.com/b3f929ad-a295-4b70-81c3-3e28890188d5_ScreenShot2020-04-13at9.25.26AM.png)
 
-<<<<<<< HEAD
-### Rachele Edwards
-=======
-### Ryan Hamblin
-
 ### Erik Sandvik
->>>>>>> 3a8d62e3d3fd56487e4ff4b412c87e2dad4a5a3c
