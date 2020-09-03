@@ -49,3 +49,5 @@ The following is a list of steps and instructions on how to complete this guided
 
 This is a secret message that you probably don't have after cloning. If you see this then you cloned late :( But hopefully by now you get at least the high-level gist of how things work in the Labs Git/GitHub-workflow.
 ### Ryan Hamblin
+
+### Karl Manalo
