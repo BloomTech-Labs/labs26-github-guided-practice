@@ -83,9 +83,8 @@ project.
 ### Nick Myers
 ### Caleb Barger
 ### Drake Alia
-
+### Enrique Gongora
 
 =======
 ### Jonathan Hsu 
 ### Krishna Dahal
-
