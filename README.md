@@ -82,4 +82,5 @@ project.
 ### Erik Sandvik
 ### Nick Myers
 ### Caleb Barger
+### Jonathan Hsu
 ### Corbin Robb
