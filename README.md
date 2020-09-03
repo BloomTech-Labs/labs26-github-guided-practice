@@ -82,5 +82,4 @@ project.
 ### Erik Sandvik
 ### Nick Myers
 ### Caleb Barger
-### Jonathan Hsu 
-### Krishna Dahal
+### Jonathan Hsu
