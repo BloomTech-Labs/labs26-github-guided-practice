@@ -1,5 +1,3 @@
-Drake Alia
-
 # Labs Github Flow
 
 -  The following is a guided project that will help you understand the git work
@@ -82,5 +80,6 @@ project.
    -  ![delete-pr](https://tk-assets.lambdaschool.com/b3f929ad-a295-4b70-81c3-3e28890188d5_ScreenShot2020-04-13at9.25.26AM.png)
 
 ### Caleb Barger
+### Drake Alia
 
 
