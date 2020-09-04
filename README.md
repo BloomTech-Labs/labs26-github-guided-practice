@@ -82,6 +82,7 @@ project.
 ### Erik Sandvik
 ### Nick Myers
 ### Caleb Barger
-### Jonathan Hsu 
+### Drake Alia
+### Jonathan Hsu
 ### Krishna Dahal
 ### Ramses Gasque
