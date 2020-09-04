@@ -83,9 +83,6 @@ project.
 ### Nick Myers
 ### Caleb Barger
 ### Drake Alia
-
-
-=======
-### Jonathan Hsu 
+### Jonathan Hsu
 ### Krishna Dahal
-
+### Ramses Gasque
